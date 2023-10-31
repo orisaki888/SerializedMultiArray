@@ -5,6 +5,12 @@ Bool型だけに対応したBoolPlaneクラスと複数の型に対応したSeri
 ![Imgur](https://i.imgur.com/Zg00gFH.png)
 ![Imgur](https://i.imgur.com/Yv8TE7D.png)
 
+## 導入方法
+以下の手順で導入してください。
+
+1. AssetsフォルダにBoolPlaneとSerializedPlaneファイルをインポートする
+2. AssetsフォルダにEditorフォルダを作成する
+3. 作成したEditorフォルダにBasicValueEditor,BoolPlaneDrawer,SerializedPlaneDrawerをインポートする
 
 ## 使用方法
 
